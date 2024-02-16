@@ -24,6 +24,7 @@ In this workshop you will learn:
 - switching between branches
 - merging to main
 - push to master
+- pull from main (Fetch)
 
 ## 4. Working on Projects
 - working with existing project
